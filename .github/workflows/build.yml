@@ -51,4 +51,4 @@ jobs:
  with:
  name: TranslationBureau-${{ matrix.os }}
  path: ./publish/**
- retention-days:
+ retention-days: 30
